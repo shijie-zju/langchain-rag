@@ -1,0 +1,5 @@
+openai公司的chatgpt:
+
+百度的千帆大模型平台：
+
+elasticd数据库：
